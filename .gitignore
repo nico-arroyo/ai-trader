@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Secrets
+.env
+.env.*
+secrets/
+
+# Personal, per-machine Claude Code config
+CLAUDE.local.md
+.claude/settings.local.json
+
+# task-observer skill workspace (local, not versioned)
+skill-observations/
+skill-updates/
+
+# OS
+.DS_Store
