@@ -47,10 +47,10 @@ docker compose up          # all four processes + db
 
 ## See also
 
-- `docs/architecture.md` — the four processes and the nine-step cycle
-- `docs/schema.md` — tables, fields, and what writes them
-- `docs/decisions.md` — why the design is the way it is, and what was cut
-- `docs/roadmap.md` — phases and their done-criteria
+- `docs/ARCHITECTURE.md` — the four processes and the nine-step cycle
+- `docs/SCHEMA.md` — tables, fields, and what writes them
+- `docs/DECISIONS.md` — why the design is the way it is, and what was cut
+- `docs/ROADMAP.md` — phases and their done-criteria
 
 ## Skill activation
 
